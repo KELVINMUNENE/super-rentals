@@ -7,3 +7,7 @@ body {
 h1 {
   font-family: 'Megrim';
 }
+img {
+  height:400px;
+  width:600px;
+}
